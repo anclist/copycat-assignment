@@ -91,3 +91,26 @@ img {
 .product-item > img {
   border: 3px solid black;
 }
+
+.about {
+  background-color: #26547C;
+  color: white;
+  padding: 30px 20px;
+  overflow: hidden;
+}
+
+.values {
+  float: left;
+  width: 33.33333%;
+  text-transform: uppercase;
+  text-align: center;
+  color: #EF476F;
+}
+
+footer {
+  background-color: #06D6A0;
+  height: 50px;
+  line-height: 50px;
+  text-align: right;
+  padding: 0 20px;
+}
