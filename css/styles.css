@@ -39,3 +39,30 @@ ul {
   margin-right: 10px;
   line-height: 60px;
 }
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.welcome {
+  overflow: hidden;
+  background-color: #26547C;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
+
+.welcome-img {
+  float: left;
+  width: 60%;
+}
+
+.welcome-msg {
+  float: left;
+  width: 40%;
+  font-size: 25px;
+  text-align: center;
+}
