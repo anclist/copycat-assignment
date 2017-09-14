@@ -66,3 +66,28 @@ img {
   font-size: 25px;
   text-align: center;
 }
+
+.main-content {
+  background-color: #FFD166;
+  padding: 30px 20px;
+}
+
+.products {
+  background-color: #F2F2F2;
+  padding: 30px 20px;
+  overflow: hidden;
+}
+
+.prod-wrapper {
+  overflow: hidden;
+}
+
+.product-item {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+.product-item > img {
+  border: 3px solid black;
+}
