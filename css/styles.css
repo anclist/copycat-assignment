@@ -1,3 +1,41 @@
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+body {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+header {
+  overflow: hidden;
+  height: 60px;
+  padding: 0 20px;
+  background-color: #06D6A0;
+  text-align: center;
+}
+
+.logo {
+   float: left;
+   line-height: 60px;
+   font-size: 18px;
+   margin: 0;
+   color: white;
+ }
+
+.navbar {
+  float: right;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 10px;
+  line-height: 60px;
+}
